@@ -26,12 +26,8 @@ echo "registry=https://registry.npm.taobao.org/" >> ~/.npmrc
 ## if you want to debug as vscode,you should do these steps
 ```
 npm install http-server
-```
 npm run build
-```
 npm start
-```
 F5
-```
 Chrome // choose the chrome but nendd install chrome plugin before
 ```
