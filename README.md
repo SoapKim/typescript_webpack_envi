@@ -22,7 +22,7 @@ npm start
 ```
 
 echo "registry=https://registry.npm.taobao.org/" >> ~/.npmrc
-```
+
 ## if you want to debug as vscode,you should do these steps
 ```
 npm install http-server
